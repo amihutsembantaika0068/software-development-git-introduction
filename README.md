@@ -9,3 +9,8 @@ Mata Kuliah : Software Development
 
 ## Deskripsi Repository
 Repository ini digunakan untuk mempelajari penggunaan dasar Git dan GitHub sebagai version control system dalam pengembangan perangkat lunak.
+
+## Tools yang digunakan
+- Git
+- GitHub
+- Visual Studio Code
